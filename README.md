@@ -21,19 +21,19 @@ This project generates images from text prompts using the **Hugging Face Inferen
 
 ## 📸 Screenshots
 ### **User Interface**
-![Text-to-Image UI](screenshots/ui.png)
+![Text-to-Image UI](screenshots/user_interface.png)
 
 ### **Example Generated Image**
-![Generated Image](screenshots/generated_example.png)
+![Generated Image](screenshots/Generated_image.png)
 
 ## 🔧 Installation & Setup
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/text-to-image-generation.git
+   git clone https://github.com/AnjuMau8418/Text-To-Image-Generator.git
    ```
 2. **Navigate into the project directory:**
    ```sh
-   cd text-to-image-generation
+   cd Text-To-Image-Generator
    ```
 3. **Open `index.html`** in a browser to start using the tool.
 
@@ -44,7 +44,7 @@ This project uses the **Hugging Face Inference API** for image generation. To in
    ``` js
    const apiKey = "your_huggingface_api_key";
    ```
-3. **Ensure CORS is enabled** if testing locally.
+
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
