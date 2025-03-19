@@ -44,14 +44,3 @@ This project uses the **Hugging Face Inference API** for image generation. To in
    ``` js
    const Key = "your_huggingface_api_key";
    ```
-
-
-## 🤝 Contributing
-Contributions are welcome! Feel free to open issues or submit pull requests.
-
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-🎨 **Happy Generating!** 🚀
-
