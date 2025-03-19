@@ -42,7 +42,7 @@ This project uses the **Hugging Face Inference API** for image generation. To in
 1. **Get an API key** from [Hugging Face](https://huggingface.co/).
 2. **Update the JavaScript file** with your API key:
    ``` js
-   const apiKey = "your_huggingface_api_key";
+   const Key = "your_huggingface_api_key";
    ```
 
 
